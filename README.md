@@ -1,4 +1,4 @@
-![Django-app workflow](https://github.com/TheUncannyMrBean/yamdb_final/actions/workflows/main.yml/badge.svg)
+![Django-app workflow](https://github.com/TheUncannyMrBean/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 
 
