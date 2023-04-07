@@ -87,7 +87,7 @@ def sign_up(request):
             ADMIN_EMAIL,
             [serializer.data['email']],
         )
-    return Response(serializer.data, status=status.HTTP_200_OK)
+        return Response(serializer.data, status=status.HTTP_200_OK)
 
 
 @api_view(['POST'])
