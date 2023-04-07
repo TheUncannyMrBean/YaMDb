@@ -70,6 +70,11 @@ jobs:
           key: ${{ secrets.SSH_KEY }}
           passphrase: ${{ secrets.PASSPHRASE }}
           script: |
+            sudo docker pull theuncannymrbean/api_yamdb:latest
+            sudo docker-compose stop
+            sudo docker-compose rm web
+            rm .env
+            touch .env
             sudo docker-compose stop
             sudo docker-compose rm web
             touch .env
