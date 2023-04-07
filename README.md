@@ -1,4 +1,5 @@
-![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
+https://github.com/TheUncannyMrBean/yamdb_final/actions/workflows/main.yml/badge.svg
+
 
 # yamdb_final
 yamdb_final
