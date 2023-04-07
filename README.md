@@ -1,6 +1,6 @@
 ![Django-app workflow](https://github.com/TheUncannyMrBean/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
-#Continuous Integration and Continuous Deployment для проекта api_yamdb
+# Continuous Integration and Continuous Deployment для проекта api_yamdb
 
 Этот проект представляет собой настройку Continuous Integration и Continuous Deployment для приложения api_yamdb, которое было упаковано в контейнеры в предыдущем задании. YaMDb - это онлайн-библиотека отзывов о фильмах, книгах и музыке. Этот проект предоставляет возможность пользователям оставлять отзывы на произведения и оценивать их. Администраторы проекта могут добавлять новые произведения и категории, а также управлять пользователями и модерировать отзывы. Проект был упакован в контейнер.
 
